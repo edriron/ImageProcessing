@@ -241,24 +241,3 @@ def quantize(im_orig, n_quant, n_iter):
         new_im = yiq2rgb(new_yiq)
 
     return new_im, errors
-
-def quantize_rgb(im_orig, n_quant):  # Bonus - optional
-    """
-    Performs optimal quantization of a given greyscale or RGB image
-    :param im_orig: Input RGB image of type float64 in the range [0,1]
-    :param n_quant: Number of intensities im_quant image will have
-    :return:  im_quant - the quantized output image
-    """
-
-    """
-    algorithm - Median Cut:
-        1. Move all pixels into a single large bucket.
-        2. Find the color channel (red, green, or blue) in the image with the greatest range.
-        3. Sort the pixels by that channel values.
-        4. Find the median and cut the region by that pixel.
-        5. Repeat the process for both buckets until you have the desired number of colors.
-    """
-    pass
-
-
-
