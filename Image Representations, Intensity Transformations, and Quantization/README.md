@@ -1,3 +1,7 @@
 # Image Representations, Intensity Transformations & Quantization
 
-![Alt text](/demo/heq_gray.jpg?raw=true "Optional Title")
+![HistogramEquation](demo/heq_gray.jpg?raw=true "Histogram Equation")
+
+![HistogramEquation](demo/heq_rgb.jpg?raw=true "Histogram Equation")
+
+![Quantization](demo/quantize.jpg?raw=true "Quantization")
