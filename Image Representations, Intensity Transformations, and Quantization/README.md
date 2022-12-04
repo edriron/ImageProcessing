@@ -1,7 +1,6 @@
 # Image Representations, Intensity Transformations & Quantization
 ## Overview
 The project was built with Python and mainly uses numpy.
-Developed as a part of Image Processing course at the Hebrew University of Jerusalem.
 
 Subjects covered:
 - Reading and displaying images
