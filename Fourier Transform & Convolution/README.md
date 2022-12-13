@@ -13,5 +13,4 @@ Subjects covered:
 ### Image Derivatives:
 
 ![ImageDerivatives](demo/monkey.jpg?raw=true "Original Image")
-
 ![ImageDerivatives](demo/monkey_fourier_der.jpg?raw=true "Derivative")
